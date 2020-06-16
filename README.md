@@ -6,5 +6,5 @@ To install:
 
 ```
 brew tap davewalter/smith-tap
-brew install smith-cli
+HOMEBREW_GITHUB_API_TOKEN=<github-api-token> brew install smith-cli
 ```
